@@ -30,7 +30,7 @@ To ensure the script works correctly, install the necessary Python libraries !
 ---
 
 ## 📂 Code
-The full source code for this project can be found in the file [`main.py`].
+The full source code for this project can be found in the file [`main.py`](./main.py).
 
 ---
 
