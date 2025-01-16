@@ -17,7 +17,7 @@ By using this tool, you can:
 ---
 
 ## 🚀 Features  
-- 🤖 **AI-Powered Classification**: Utilizes a trained neural network for accurate waste classification.  
+- 🤖 **AI-Powered Classification**: Utilizes a trained neural network for  waste classification.  
 - 🌱 **Eco-Friendly**: Encourages sustainable waste management practices.  
 - 🖼️ **Visual Feedback**: Displays uploaded images and predictions.  
 - 🛠️ **Easy Setup**: Minimal configuration required.  
