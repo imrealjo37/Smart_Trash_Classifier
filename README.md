@@ -1,4 +1,4 @@
-# 🌟 SmartTrashClassifier 🌟  
+#  SmartTrashClassifier 
 An AI-powered waste sorting tool to help you sort your waste correctly and sustainably! 🌿✨  
 
 ---
