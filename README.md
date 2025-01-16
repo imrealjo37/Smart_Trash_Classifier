@@ -24,6 +24,21 @@ By using this tool, you can:
 
 ---
 
+## 🛠️ How It Works  
+
+1. **Train a Model**:  
+   - Use [Teachable Machine by Google](https://teachablemachine.withgoogle.com/) to train a custom image recognition model with at least two classes (e.g., Organic, Paper, Plastic).  
+   - Export the trained model in **TensorFlow format** (`keras_model.h5` and `labels.txt`).  
+
+2. **Add Test Images**:  
+   - Include your test images in the project directory (e.g., `test.jpg`, `test2.jpg`, `test3.png`).  
+
+3. **Run the Script**:  
+   - The script will preprocess the images, run them through the model, and output the classification result along with a confidence score.
+
+---
+
+
 ## 🛠️ Setup Instructions  
 To ensure the script works correctly, install the necessary Python libraries !
 
